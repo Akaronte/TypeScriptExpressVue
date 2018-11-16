@@ -17,7 +17,7 @@ npm run tsc
 
 #4 Start Server
 ```
-npm run server
+npm run serve
 ```
 
 Now localhost port 3000 show Vue and localhost:3000/welcome for express functions
