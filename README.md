@@ -21,3 +21,6 @@ npm run serve
 ```
 
 Now localhost port 3000 show Vue and localhost:3000/welcome for express functions
+
+#More info
+https://github.com/Microsoft/TypeScript-Vue-Starter#typescript-vue-starter
