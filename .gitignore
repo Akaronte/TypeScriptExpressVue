@@ -2,7 +2,8 @@
 node_modules
 package-lock.json
 .vscode
-dist/index.html
+!dist/index.html
+dist
 # local env files
 .env.local
 .env.*.local
